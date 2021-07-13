@@ -1,0 +1,1 @@
+public IP : 18.163.173.72, ID : i-05c127b85a1daa54d, AZ : ap-east-1a
